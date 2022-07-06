@@ -1,22 +1,23 @@
-# 수업 내용 정리
+# 7월 4일 ~ 12월 16일 투어
 
 
 
-| 내용              | 학습일        | 링크                    |
-| ----------------- | ------------- | ----------------------- |
-| OT                | Day1 (7월4일) |                         |
-| Typora / Markdown | Day2 (7월5일) | [Day2](./Markdown day1.md) |
-| Git / GitHub      | Day3 (7월6일) | [Day3](./Markdown day2.md) |
-|                   |               |                         |
-|                   |               |                         |
-|                   |               |                         |
-|                   |               |                         |
-|                   |               |                         |
-|                   |               |                         |
+## 1. 수업 내용
 
 
 
+| 날짜         | 수업내용          |
+| ------------ | ----------------- |
+| 7월 4일 Day1 | OT                |
+| 7월 5일 Day2 | Typora / Markdown |
+| 7월 6일 Day3 | Git / Github      |
+| 7월 7일      |                   |
 
 
 
+## 2. 정리
+
+[Day2 정리](markdown/Markdown day1.md)
+
+[Day3 정리](markdown/Markdown day2.md)
 
