@@ -17,9 +17,11 @@
 
 ## 2. 정리
 
-[Day2 정리](https://github.com/koo1996/TIL/blob/master/markdown/Markdown day1.md)
+[Day2 정리](https://github.com/koo1996/TIL/blob/master/markdown/Markdown_day1.md)
 
-[Day3 정리](https://github.com/koo1996/TIL/blob/master/markdown/Markdown day2.md)
+[Day3 정리](https://github.com/koo1996/TIL/blob/master/markdown/Markdown_day2.md)
+
+
 
 
 
