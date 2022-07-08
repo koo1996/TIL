@@ -22,7 +22,7 @@
 
 [Day3 정리](https://github.com/koo1996/TIL/blob/master/markdown/Markdown_day2.md)
 
-[Day4 정리](markdown/Markdown_day3)
+[Day4 정리](markdown/Markdown_day3.md)
 
 
 
