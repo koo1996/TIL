@@ -13,6 +13,7 @@
 | 7월 6일 Day3 | Git / Github          |
 | 7월 7일 Day4 | Github / Pull Request |
 | 7월 8일 Day5 | 취업특강              |
+|              |                       |
 
 
 
