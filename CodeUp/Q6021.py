@@ -1,0 +1,6 @@
+ans = input()
+print(ans[0])
+print(ans[1])
+print(ans[2])
+print(ans[3])
+print(ans[4])
