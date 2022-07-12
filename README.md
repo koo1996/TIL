@@ -30,6 +30,8 @@
 
 [Day6 정리](markdown/Markdown_day5.md)
 
+[Day7 정리]()
+
 
 
 
