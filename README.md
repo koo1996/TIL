@@ -14,6 +14,7 @@
 | 7월 7일 Day4  | Github / Pull Request |
 | 7월 8일 Day5  | 취업특강              |
 | 7월 11일 Day6 | Python 1일차          |
+| 7월 12일 Day7 | Python 2일차          |
 
 
 
