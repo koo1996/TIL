@@ -15,6 +15,8 @@
 | 7월 8일 Day5  | 취업특강              |
 | 7월 11일 Day6 | Python 1일차          |
 | 7월 12일 Day7 | Python 2일차          |
+| 7월 13일 Day8 | Python 3일차          |
+| 7월 14일 Day9 | Python 4일차          |
 
 
 
@@ -30,7 +32,15 @@
 
 [Day6 정리](markdown/Markdown_day5.md)
 
-[Day7 정리]()
+[Day7 정리](markdown/Markdown_day6.md)
+
+[Day8 정리](markdown/Markdown_day7.md)
+
+[Day9 정리](markdown/Markdown_day8.md)
+
+
+
+
 
 
 
