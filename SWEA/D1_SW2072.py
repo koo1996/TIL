@@ -5,3 +5,4 @@ for test in range(1,int(input())+1):
         if number[test_2] % 2 == 1:
             result = result + number[test_2]
     print('#{} {}'.format(test,result))
+    
