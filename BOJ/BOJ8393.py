@@ -1,7 +1,7 @@
 N = int(input())
 cnt = 0
-
-for test in range(1,N+1):
+test = 0
+for i in range(0,N):
     cnt += 1
     test = test + cnt
 print(test)
