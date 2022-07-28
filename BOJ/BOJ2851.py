@@ -1,15 +1,20 @@
-num_list = []
-sum = 0
+N = 10
 
-# for test in range(10):
-num_list.append(int(input(),10)
-# result = []
-# for test in range(10):
-#     result.append(sum + num_list[test])
-# print(result)
-#     if sum > 100:
-#         if sum - num_list[test -1] >:
+scores = []
+for i in range(N):
+    score = int(input())
+    scores.append(score)
 
-#         print(max(sum, sum - num_list[test - 1]))
-#         break
-# print(sum)
+sum_ = 0
+min_diff = 10e9
+max_score = 0
+for i in range(N):
+    sum_ = sum_ + scores[i]
+
+    diff = abs(100 - sum_)
+
+    if diff <= min_diff:
+        min_diff = diff
+        max_score = sum_
+
+print(max_score)
