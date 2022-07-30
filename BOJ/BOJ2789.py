@@ -4,3 +4,4 @@ N = list(input())
 for i in remove_list:
     if N == i:
         print(N)
+        
