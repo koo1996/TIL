@@ -1,7 +1,7 @@
 remove_list = ['C','A','M','B','R','I','D','G','E']
 
-N = list(input())
+N = input()
 for i in remove_list:
-    if N == i:
-        print(N)
-        
+    if i in N:
+        N = N.replace(i,'')
+print(N)
