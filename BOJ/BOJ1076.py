@@ -16,6 +16,6 @@ for u in Color:
     if C == u:
         Z = Color.index(u)
         Z_ = Numbers_2[Z]
-# print(X * Y_ * Z_)
+        
 print((X * 10 + Y) * Z_)
 
