@@ -1,11 +1,6 @@
-A, B = map(int,input().split())
+N, M = map(int,input().split())
 
-N = list(map(int,input().split()))
-M = list(map(int,input().split()))
-result = []
-X = len(N) + len(M)
-for i in N:
-    if i in M:
-        result.append(i)
-ans = X - (len(result) * 2)
-print(ans)
+A = set(map(int,input().split())) #A집합 set 생성
+B = set(map(int,input().split())) #B집합 set 생성
+
+print(len(A-B) + len(B-A)) # A-B 길이 + B-A 길이
