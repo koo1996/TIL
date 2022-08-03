@@ -10,4 +10,3 @@ for test in range(1,int(input())+1):
     c = date[6:8]
     if int(c)
     print(a,b,c)
-    
