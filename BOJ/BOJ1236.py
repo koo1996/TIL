@@ -1,19 +1,17 @@
-N, M = map(int,input().split())
-check= []
+n, m = map(int,input().split())
+board = []
 
-SN = [1 for i in range(N)]
-SM = [1 for i in range(M)]
+for _ in range(n):
+    board.append(input())
 
-for i in range(0,N):
-    S = input()
-    for j in range(0,M):
-        if S[j] == 'X':
-            SN[i] = 0 
-            SM[j] = 0
+a, b = 0, 0
 
-sumN = sum(SN)
-sumM = sum(SM)
+for i in range(n):
+    if "X" not in board[i]:
+        a += 1
 
-output = sumN if sumN > sumM else sumM   
+for j in range(m):
+    if "X" not in [board[i][j] for i in range(n)]:
+        b += 1
 
-print(output)
+print(max(a ,b))
