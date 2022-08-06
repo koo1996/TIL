@@ -15,4 +15,4 @@ for test in range(1,T+1):
                 for y in range(j,j+M):
                     sum += matrix[x][y]
             result.append(sum)
-    print(f'#{test}',max(result)) #결과값 출력
+    print(f'#{test}',max(result)) #결과값 출력.

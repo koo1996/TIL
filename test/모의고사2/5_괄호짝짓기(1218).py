@@ -32,7 +32,7 @@ for test in range(1,11): #테스트 케이스 설정
                 list_2.append(list_1[j]) #아닌 경우에는 list_2에 저장한다.
         else:
             list_2.append(list_1[j]) 
-    if len(list_2) == 0: #list_2 길이가 0이면 1출력, 아니면 0 출력
+    if len(list_2) == 0: #list_2 길이가 0이면 1출력, 아니면 0 출력.
         answer = 1
     else:
         answer = 0

@@ -15,4 +15,4 @@ for test in range(10): #테스트 케이스 10개
                 N.append(sum)
                 N.pop(0) #첫번째자리의 숫자를 지운다.
                 i += 1 #i를 1 증가시킨다.
-    print(f'#{T}',*N) #결과값 출력
+    print(f'#{T}',*N) #결과값 출력.

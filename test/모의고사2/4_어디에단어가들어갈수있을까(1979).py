@@ -25,4 +25,4 @@ for test in range(1,T+1):
                 if cnt == K: #cnt가 k면 result 1씩 증가
                     result += 1
                 cnt = 0 #아니면 cnt 초기화
-    print(f'#{test}',result) #결과값 출력
+    print(f'#{test}',result) #결과값 출력.
