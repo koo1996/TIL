@@ -27,3 +27,4 @@ for i in range(R-1): # 차를 주차하기 위해서는 2 x 2 공간이 필요 /
                 cnt0 += 1
 
 print(cnt0,cnt1,cnt2,cnt3,cnt4,sep='\n') #결과값 출력
+
