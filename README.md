@@ -18,8 +18,21 @@
 | 7월 13일 Day8  | Python 3일차           |
 | 7월 14일 Day9  | Python 4일차           |
 | 7월 15일 Day10 | Python 5일차 / 프로젝트 |
-| 7월 16일 Day11 | Python 6일차 |
-
+| 7월 18일 Day11 | Python 6일차 |
+| 7월 19일 Day12 | Python 7일차 |
+| 7월 20일 Day13 | Python 8일차 |
+| 7월 21일 Day14 | Python 9일차 |
+| 7월 22일 Day15 | Python 10일차 |
+| 7월 25일 Day16 | Python 11일차 |
+| 7월 26일 Day17 | Python 12일차 |
+| 7월 27일 Day18 | Python 13일차 |
+| 7월 28일 Day19 | Python 14일차 |
+| 7월 29일 Day20 | Python 15일차 |
+| 8월 1일 Day21 | Python 7일차 |
+| 8월 2일 Day12 | Python 7일차 |
+| 8월 3일 Day12 | Python 7일차 |
+| 8월 4일 Day12 | Python 7일차 |
+| 8월 5일 Day12 | Python 7일차 |
 
 ## 2. 정리
 
