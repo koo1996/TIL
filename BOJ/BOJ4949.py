@@ -5,8 +5,9 @@ while True:
     if N == '.':
         break
     for i in N:
-        print(i)
-
-
-    # if N == '(' or N == '[':
-    #     stack.append()
+        if N == '(' or N == '[':
+                stack.append()
+        elif N == ')':
+            if stack[-1] == '(':
+                stack.pop()
+             
