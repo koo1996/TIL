@@ -9,8 +9,3 @@ while True:
             print('neither')
     else: 
         break
-
-
-
-
-    
