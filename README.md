@@ -33,6 +33,8 @@
 | 8월 3일 Day12 | Python 7일차 |
 | 8월 4일 Day12 | Python 7일차 |
 | 8월 5일 Day12 | Python 7일차 |
+| 8월 16일 ~ 8월 26일 | DB |
+| 8월 29일 ~ | WEB
 
 ## 2. 정리
 
@@ -83,3 +85,4 @@
 [Day21 정리](markdown/Markdown_day021.md)
 
 [Day22 정리](markdown/Markdown_day022.md)
+
