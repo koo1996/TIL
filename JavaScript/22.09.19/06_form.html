@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <form action="">
+    <input type="password" name="password" id="password">
+    <input type="password" name="password_confirmation" id="password_confirmation">
+    <button type="submit">검사</button>
+  </form>
+  <script>
+    const password = document.querySelector('#password'),
+    confirm_password = document.querySelector('#password_confirmation');
+
+    function validatePassword(){
+
+
+      if (password.value != confirm_password.value){
+        confirm_password.setCustomValidity("불일치");
+      }
+
+      else {
+        confirm_password.setCustomValidity("일치");
+      }
+    
+      if (password.value.length<8) {
+        password.setCustomValidity("8자 이상 입력!")
+      }
+    }
+    password.onchange=validatePassword;
+    confirm_password.onkeyup = validatePassword;
+    
+  </script>
+</body>
+</html>
