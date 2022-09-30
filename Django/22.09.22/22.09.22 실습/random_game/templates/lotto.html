@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Lotto 추첨!</h1>
+    {% for lotto in lotto_list %}
+        {% for number in lotto %}
+            <span>{{ number }}</span>
+        {% endfor %}
+        <br>
+    {% endfor %}
+
+    <h1>이번주 로또 당첨 번호!</h1>
+    {% for num in today_lotto %}
+        <span>{{ num }}</span>
+    {% endfor %}
+
+</body>
+</html>
