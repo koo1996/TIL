@@ -1,16 +1,9 @@
-import sys
-input = sys.stdin.readline
+from sys import stdin
+from collections import Counter
+_ = stdin.readline()
+N = stdin.readline().split()
+_ = stdin.readline()
+M = stdin.readline().split()
 
-N = int(input())
-Numbers = list(map(int,input().split()))
-M = int(input())
-F_Numbers = list(map(int,input().split()))
-
-result = []
-for i in range(len(F_Numbers)):
-    cnt = 0
-    for j in range(len(Numbers)):
-        if F_Numbers[i] == Numbers[j]:
-            cnt += 1
-    result.append(cnt)
-print(*result)
+C = Counter(N)
+print(' '.join(f'{C[m]}' if m in C else '0' for m in M))
