@@ -1,0 +1,17 @@
+Git & Github 실무 활용 / 과제 
+
+1) 원격 저장소(https://github.com/rhello/hello.git)를 로컬에 클론(clone)
+
+정답) $ git clone https://github.com/rhello/hello.git
+
+2) 새로운 브랜치(feature)를 checkout 명령으로 생성
+
+정답) $ git checkout -b feature
+
+3) 브랜치(feature)에 파일(hello.txt)을 수정하여 커밋 메시지("[feature] edit:hello.txt")로 반영
+
+정답) $ git commit -m "[feature] edit:hello.txt"
+
+4) 3) 실행 후 원격 저장소에 저장
+
+정답) $ git push origin feature
