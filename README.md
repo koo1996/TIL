@@ -20,5 +20,4 @@
 | 9월 15일 ~ 9월 20일 | [JavaScript](JavaScript/) |
 | 9월 21일 ~ 10월 27일| [Django](Django/) |
 
-## 2. 정리
 
