@@ -13,7 +13,7 @@
 | 7월 6일 Day3   | [Git / Github](markdown/Markdown_day003.md) |
 | 7월 7일 Day4   | [Github / Pull Request](markdown/Markdown_day004.md) |
 | 7월 8일 Day5   | [취업특강](markdown/Markdown_day005.md) |
-| 7월 11일 ~ 7월 22일 | [Python](파이썬 실습문제/)  |
+| 7월 11일 ~ 7월 22일 | [Python](https://github.com/koo1996/TIL/tree/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C)  |
 | 7월 25일 ~ 8월 12일 | 알고리즘 => [BOJ](BOJ/) / [CodeUp](CodeUp/) / [SWEA](SWEA/) |
 | 8월 16일 ~ 8월 26일 | [DB](DB/) |
 | 8월 29일 ~ 9월 14일 | [HTML, CSS](web/) |
