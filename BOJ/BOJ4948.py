@@ -16,3 +16,4 @@ while True:
         print(1)
     else:
         print(magic(n))
+        
