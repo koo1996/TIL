@@ -25,5 +25,6 @@
 | 12월16일 | 특강 / 교육종료|
 
 6개월 교육 마무리
-
+==================
+22.12.25 error: did not send all necessary objects
 
