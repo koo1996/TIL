@@ -27,4 +27,5 @@
 6개월 교육 마무리
 ==================
 22.12.25 error: did not send all necessary objects
+git pull origin master
 
