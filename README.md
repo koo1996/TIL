@@ -28,4 +28,5 @@
 ==================
 22.12.25 error: did not send all necessary objects
 git pull origin master
-
+==================
+초기화
